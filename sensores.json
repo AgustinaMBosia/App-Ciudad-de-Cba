@@ -1,0 +1,44 @@
+{
+    "sensor1": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    },
+    "sensor2": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    },
+    "sensor3": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    },
+    "sensor4": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    },
+    "sensor5": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    },
+    "sensor6": {
+        "temperatura": "usuario",
+        "humedad": "usuario",
+        "ubicacion": "agustina",
+        "fecha": "agustina",
+        "hora": "agustina"
+    }
+}
