@@ -10,6 +10,22 @@
         },
         {
             "id": 2,
+            "temperatura": "26 °C",
+            "humedad": "20%",
+            "rayos UV": "fuertes",
+            "zona": "Alta Córdoba",
+            "fecha": "2025-09-01T12:00:00"
+        },
+        {
+            "id": 3,
+            "temperatura": "22 °C",
+            "humedad": "19%",
+            "rayos UV": "normales",
+            "zona": "Nueva Córdoba",
+            "fecha": "2025-09-01T12:00:00"
+        },
+        {
+            "id": 4,
             "temperatura": "25 °C",
             "humedad": "20%",
             "rayos UV": "normales",
@@ -17,7 +33,7 @@
             "fecha": "2025-09-01T12:00:00"
         },
         {
-            "id": 3,
+            "id": 5,
             "temperatura": "20 °C",
             "humedad": "15%",
             "rayos UV": "fuertes",
@@ -25,7 +41,7 @@
             "fecha": "2025-10-01T12:00:00"
         },
         {
-            "id": 4,
+            "id": 6,
             "temperatura": "38 °C",
             "humedad": "35%",
             "rayos UV": "fuertes",
@@ -33,7 +49,7 @@
             "fecha": "2025-12-12T12:00:00"
         },
         {
-            "id": 5,
+            "id": 7,
             "temperatura": "10 °C",
             "humedad": "10%",
             "rayos UV": "debiles",
