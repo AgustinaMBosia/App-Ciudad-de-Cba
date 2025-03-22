@@ -1,44 +1,45 @@
 {
-    "sensor1": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    },
-    "sensor2": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    },
-    "sensor3": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    },
-    "sensor4": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    },
-    "sensor5": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    },
-    "sensor6": {
-        "temperatura": "usuario",
-        "humedad": "usuario",
-        "ubicacion": "agustina",
-        "fecha": "agustina",
-        "hora": "agustina"
-    }
+    "sensores": [
+        {
+            "id": 1,
+            "temperatura": "28 °C",
+            "humedad": "25%",
+            "rayos UV": "fuertes",
+            "zona": "Alta Córdoba",
+            "fecha": "2025-09-01T12:00:00"
+        },
+        {
+            "id": 2,
+            "temperatura": "25 °C",
+            "humedad": "20%",
+            "rayos UV": "normales",
+            "zona": "Nueva Córdoba",
+            "fecha": "2025-09-01T12:00:00"
+        },
+        {
+            "id": 3,
+            "temperatura": "20 °C",
+            "humedad": "15%",
+            "rayos UV": "fuertes",
+            "zona": "El Cerro",
+            "fecha": "2025-10-01T12:00:00"
+        },
+        {
+            "id": 4,
+            "temperatura": "38 °C",
+            "humedad": "35%",
+            "rayos UV": "fuertes",
+            "zona": "Villa Cabrera",
+            "fecha": "2025-12-12T12:00:00"
+        },
+        {
+            "id": 5,
+            "temperatura": "10 °C",
+            "humedad": "10%",
+            "rayos UV": "debiles",
+            "zona": "Villa Allende",
+            "fecha": "2021-06-01T12:00:00"
+        }
+
+    ]
 }
